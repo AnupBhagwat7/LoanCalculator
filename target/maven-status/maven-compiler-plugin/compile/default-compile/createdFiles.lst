@@ -1,0 +1,5 @@
+com\anup\beans\RepaymentSchedule.class
+com\anup\controller\LoanController.class
+com\anup\service\LoanService.class
+com\anup\LoanCalculatorApplication.class
+com\anup\beans\LoanDetails.class
